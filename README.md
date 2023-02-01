@@ -7,3 +7,6 @@ Nome e senha do Wi-Fi a ser utilizado e ID individual do telegram.
  
 Para a construção do projeto foi utilizado o esquemático abaixo.
 ![image](https://user-images.githubusercontent.com/84104017/215912269-eb2112b6-0a04-4128-bdf0-11618421ead2.png)
+
+Link YouTube:
+https://www.youtube.com/watch?v=uBIr6o4DH9k&ab_channel=VictorLucas
